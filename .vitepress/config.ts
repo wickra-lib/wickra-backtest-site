@@ -111,7 +111,7 @@ export default defineConfig({
           { text: 'crates.io', link: 'https://crates.io/crates/wickra-backtest' },
           { text: 'PyPI', link: 'https://pypi.org/project/wickra-backtest/' },
           { text: 'npm', link: 'https://www.npmjs.com/package/wickra-backtest' },
-          { text: 'NuGet', link: 'https://www.nuget.org/packages/WickraBacktest' },
+          { text: 'NuGet', link: 'https://www.nuget.org/packages/Wickra.Backtest' },
           { text: 'Maven Central', link: 'https://central.sonatype.com/artifact/org.wickra/wickra-backtest' },
           { text: 'Go module', link: 'https://pkg.go.dev/github.com/wickra-lib/wickra-backtest-go' },
           { text: 'r-universe', link: 'https://wickra-lib.r-universe.dev' },

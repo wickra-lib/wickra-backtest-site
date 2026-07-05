@@ -26,7 +26,7 @@ exclude = [
   # first release lands. Excluded so the scheduled link check stays green until
   # then. Remove on release.
   'pypi\.org/project/wickra-backtest',
-  'nuget\.org/packages/WickraBacktest',
+  'nuget\.org/packages/Wickra\.Backtest',
   'central\.sonatype\.com/artifact/org\.wickra/wickra-backtest',
   'pkg\.go\.dev/github\.com/wickra-lib/wickra-backtest-go',
   'docs\.rs/wickra-backtest',
