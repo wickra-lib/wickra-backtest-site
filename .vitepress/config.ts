@@ -93,7 +93,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Demo', link: '/demo' },
-      { text: 'Live', link: 'https://live.wickra.org' },
+      { text: 'Live', link: 'https://backtest-live.wickra.org' },
       { text: 'Benchmarks', link: '/benchmarks' },
       {
         text: 'API',
