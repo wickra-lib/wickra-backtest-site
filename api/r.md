@@ -25,4 +25,4 @@ cat(report, "\n")
 ## More
 
 - [r-universe](https://wickra-lib.r-universe.dev)
-- [Source & examples](https://github.com/wickra-lib/wickra-backtest/tree/main/examples/r)
+- [Source & examples](https://github.com/wickra-lib/wickra-backtest/tree/main/bindings/r)

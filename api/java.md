@@ -36,4 +36,4 @@ The binding uses the Java Foreign Function & Memory API, so it needs JDK 22+ and
 ## More
 
 - [Maven Central](https://central.sonatype.com/artifact/org.wickra/wickra-backtest)
-- [Source & examples](https://github.com/wickra-lib/wickra-backtest/tree/main/examples/java)
+- [Source & examples](https://github.com/wickra-lib/wickra-backtest/tree/main/bindings/java)

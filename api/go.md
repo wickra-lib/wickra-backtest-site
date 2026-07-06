@@ -34,4 +34,4 @@ func main() {
 ## More
 
 - [Go module (pkg.go.dev)](https://pkg.go.dev/github.com/wickra-lib/wickra-backtest-go)
-- [Source & examples](https://github.com/wickra-lib/wickra-backtest/tree/main/examples/go)
+- [Source & examples](https://github.com/wickra-lib/wickra-backtest/tree/main/bindings/go)

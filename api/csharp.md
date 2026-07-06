@@ -28,4 +28,4 @@ microstructure strategies.
 ## More
 
 - [NuGet](https://www.nuget.org/packages/Wickra.Backtest)
-- [Source & examples](https://github.com/wickra-lib/wickra-backtest/tree/main/examples/csharp)
+- [Source & examples](https://github.com/wickra-lib/wickra-backtest/tree/main/bindings/csharp)
