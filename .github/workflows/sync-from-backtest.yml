@@ -76,7 +76,9 @@ jobs:
       - name: Follow the core's release in the demo bundle
         env:
           C: ${{ steps.core.outputs.version }}
-        run: |
+        # The point of the step is to move the lockfile; the version is the tag
+        # wickra's release job just published, read from the API above.
+        run: | # zizmor: ignore[adhoc-packages]
           set -euo pipefail
           if grep -q "\"wickra-wasm\": \"^${C}\"" package.json; then
             echo "already on wickra-wasm ^${C}"
