@@ -1,14 +1,17 @@
 ---
-title: Live demo
-description: Run any Wickra indicator over a generated price series — straight in your browser, powered by the wickra-wasm bundle from npm.
+title: Indicator demo
+description: The Wickra indicator core that Wickra Backtest is built on, running in your browser — powered by the wickra-wasm bundle from npm.
 ---
 
-# Live demo
+# The core, live
 
-Every line below is computed by **`wickra-wasm`** running inside your
-browser via WebAssembly — no server, no API call, no install. The same
-Rust kernel that powers `pip install wickra` and `cargo add wickra` is
-producing every indicator value you see.
+Every line below is computed by **`wickra-wasm`** — the indicator core
+Wickra Backtest is built on — running inside your browser via WebAssembly:
+no server, no API call, no install. The same Rust kernel that computes every
+indicator Wickra Backtest reads is producing every value you see.
+
+> **▶ Wickra Backtest itself, in the browser:** the backtester compiled to WebAssembly, an equity curve building bar by bar —
+> **[backtest-live.wickra.org](https://backtest-live.wickra.org)**. Zero backend.
 
 > **▶ Want real market data?** This page runs every indicator over a *generated*
 > price series. For **all 514 indicators over a live Binance feed** — candles,
@@ -67,5 +70,6 @@ for (const price of liveFeed) {
 }
 ```
 
-The same shape works in Node and Python — see the
-[API pages](/api/wasm) for each binding's idiomatic snippet.
+The same shape works in Node and Python — the core's own
+[API pages](https://wickra.org/api/wasm) carry each binding's idiomatic snippet;
+the [API pages here](/api/rust) are Wickra Backtest's.
