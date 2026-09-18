@@ -8,7 +8,7 @@ An FFM (Panama) wrapper over the C ABI. Pass OHLCV arrays and a spec to the stat
 <dependency>
   <groupId>org.wickra</groupId>
   <artifactId>wickra-backtest</artifactId>
-  <version>0.1.6</version>
+  <version>0.1.7</version>
 </dependency>
 ```
 
