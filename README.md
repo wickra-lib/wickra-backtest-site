@@ -2,11 +2,11 @@
   <a href="https://backtest.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.webp?v=514-7" alt="Wickra Backtest — streaming-native, event-driven backtester where a backtest and a live run over the same JSON spec are byte-identical" width="100%"></a>
 </p>
 
-[![Built on Wickra](https://img.shields.io/badge/built%20on-wickra-3b82f6)](https://github.com/wickra-lib/wickra)
-[![Live demo](https://img.shields.io/badge/live%20demo-backtest--live.wickra.org-3b82f6)](https://backtest-live.wickra.org)
+[![Built on Wickra](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-backtest-site/built-on.svg)](https://github.com/wickra-lib/wickra)
+[![Live demo](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-backtest-site/live-demo.svg)](https://backtest-live.wickra.org)
 [![Docs](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-backtest/docs.svg)](https://backtest.wickra.org)
 [![License: MIT OR Apache-2.0](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-backtest/license.svg)](https://github.com/wickra-lib/wickra-backtest#license)
-[![Built with VitePress](https://img.shields.io/badge/built%20with-VitePress-5c73e7?logo=vite&logoColor=white)](https://vitepress.dev)
+[![Built with VitePress](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-backtest-site/vitepress.svg)](https://vitepress.dev)
 
 ---
 
