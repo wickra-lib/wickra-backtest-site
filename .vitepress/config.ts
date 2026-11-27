@@ -123,7 +123,7 @@ export default defineConfig({
         ],
       },
       {
-        text: 'v0.2.2',
+        text: 'v0.2.3',
         items: [
           { text: 'Release notes', link: 'https://github.com/wickra-lib/wickra-backtest/releases' },
           { text: 'Changelog', link: 'https://github.com/wickra-lib/wickra-backtest/blob/main/CHANGELOG.md' },
